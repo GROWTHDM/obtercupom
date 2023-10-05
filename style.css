@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
+html{
+    padding: 10px;
+}
 
 body{
     display: flex;
